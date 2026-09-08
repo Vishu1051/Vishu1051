@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my self vishal  and  I am  Cyber security student <br> I m  facinat on cloud security basically I work  with cybernox <br>
+Hi, myself Vishal. I am a Cybersecurity student with a strong interest in Cloud Security, DevSecOps, and Penetration Testing.  I had worked with CyberNox  , and learning cloud, DevOps, and security practices. <br>
 
 
 # 💻 Tech Stack:
